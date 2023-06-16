@@ -2,7 +2,7 @@
 container.addEventListener('click', function(){
 
     let audio1 = new Audio();
-    audio1.src = "tune2.mp3";
+    audio1.src = "tune.mp3";
 
 const container = document.getElementById("container");
 const canvas = document.getElementById("canvas");
